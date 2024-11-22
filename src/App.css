@@ -1,0 +1,38 @@
+.row{
+  background-color: black;
+}
+
+.html {
+  border: 1px solid #6499E9;
+  padding: 6px;
+  border-radius: 8px;
+  color: #FFFF;
+  margin: 8px 4px;
+  opacity: 120%;
+}
+.cardx {
+  width: 280px;
+  height: 300px;
+  padding: 18px;
+  background-color: #393E46;
+  border-radius: 8px;
+  opacity: 60%;
+  margin: 20px !important;
+}
+.email-button {
+  text-decoration: none; 
+  padding: 10px 20px; 
+  background-color: #637bb7;
+  color: white; 
+  font-size: 16px;  
+  border-radius: 5px; 
+  border: none;
+  display: inline-block;
+  justify-content: center; 
+  text-align: center; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.email-button:hover {
+  background-color:#637bb7;
+}
